@@ -5,7 +5,7 @@ This is a fullstack application for sharing random ideas.
 
 This app includes a Node.js/Express REST API that uses MongoDB for a database. The client-side is built with Webpack.
 
-<img src="assets\homeScreenshot.png">
+![Alt text](assets/homeScreenShot.png)
 
 ## Usage
 
