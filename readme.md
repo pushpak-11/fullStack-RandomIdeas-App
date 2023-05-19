@@ -1,10 +1,11 @@
 # RandomIdeas App
+DEMO: https://randomideas-87as.onrender.com/
 
 This is a fullstack application for sharing random ideas. 
 
 This app includes a Node.js/Express REST API that uses MongoDB for a database. The client-side is built with Webpack.
 
-<img src="assets/screen.png">
+<img src="assets\homeScreen.png">
 
 ## Usage
 
